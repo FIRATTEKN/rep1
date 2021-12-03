@@ -25,5 +25,3 @@ A package is a namespace for organizing classes and interfaces in a logical mann
 Placing your code into packages makes large software projects easier to manage.
 This section explains why this is useful
 and introduces you to the Application Programming Interface (API) provided by the Java platform.
-quin
-asdas
